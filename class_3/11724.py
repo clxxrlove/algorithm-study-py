@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/11399
+# https://www.acmicpc.net/problem/11724
 import sys
 sys.setrecursionlimit(10 ** 7)
 
