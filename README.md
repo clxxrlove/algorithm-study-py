@@ -7,6 +7,7 @@
 #### Dynamic Programming
 
 - Class 3 1463 - 1로 만들기
+- Gold 5 2293 - 코인 1
 
 #### DFS
 - Gold 3 16964 DFS 스페셜 저지
