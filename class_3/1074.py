@@ -32,5 +32,3 @@ def divide(x, y, N):
 
 
 divide(0, 0, N)
-
-# 시간복잡도 줄여야함
