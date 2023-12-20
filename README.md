@@ -21,3 +21,5 @@
 
 #### Backtracking
 - 15649 ~ 15663 N과 M
+- 9663 N-Queen
+ -> PyPy3 아니면 못 풀겠음
