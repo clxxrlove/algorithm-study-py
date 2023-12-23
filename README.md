@@ -6,20 +6,24 @@
 
 #### Dynamic Programming
 
-- Class 3 1463 - 1로 만들기
-- Gold 5 2293 - 코인 1
+- 1463 - 1로 만들기
+- 2293 - 코인 1
 
 #### DFS
-- Gold 3 16964 DFS 스페셜 저지
+- 16964 DFS 스페셜 저지
 
 #### BFS
-- Class 3 1697 - 숨바꼭질
-- Class 3 7576 - 토마토
+- 1697 - 숨바꼭질
+- 7576 - 토마토
 
 #### Implementation
-- Gold 5 14891 - 톱니바퀴
+- 14891 - 톱니바퀴
 
 #### Backtracking
-- 15649 ~ 15663 N과 M
-- 9663 N-Queen
+- 15649 ~ 15663 - N과 M
+- 9663 - N-Queen
  -> PyPy3 아니면 못 풀겠음
+
+#### Shortest Path
+- Dijkstra 1446 - 지름길 
+- Dijkstra 1916 - 최소비용 구하기
