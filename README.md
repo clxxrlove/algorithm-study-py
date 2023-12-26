@@ -28,3 +28,6 @@
 - Dijkstra 1446 - 지름길 
 - Dijkstra 1916 - 최소비용 구하기
 - Dijkstra, BFS 13549 - 숨바꼭질 3
+
+### Brute Force
+- 1107 - 리모컨 (문제 자체는 쉬운데 예외가 많음)
