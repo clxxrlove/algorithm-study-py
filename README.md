@@ -7,21 +7,22 @@
 #### Dynamic Programming
 - 1463 - 1로 만들기
 - 2293 - 코인 1
-- 9251 - LCS
+- **9251 - LCS**
+- **12865 - 배낭 문제** (0-1 KnapSack Problem)
 
 #### DFS
-- 16964 DFS 스페셜 저지
+- **16964 DFS 스페셜 저지**
 
 #### BFS
 - 1697 - 숨바꼭질
-- 7576 - 토마토
+- **7576 - 토마토**
 
 #### Implementation
-- 14891 - 톱니바퀴
+- **14891 - 톱니바퀴**
 
 #### Backtracking
 - 15649 ~ 15663 - N과 M
-- 9663 - N-Queen
+- **9663 - N-Queen**
  -> PyPy3 아니면 못 풀겠음
 
 #### Shortest Path
@@ -29,8 +30,8 @@
 - Dijkstra 1916 - 최소비용 구하기
 - Dijkstra, BFS 13549 - 숨바꼭질 3
 
-### Brute Force
+#### Brute Force
 - 1107 - 리모컨 (문제 자체는 쉬운데 예외가 많음)
 
-### Data Structure
-- 7662 - 이중 우선순위 큐
+#### Data Structure
+- **7662 - 이중 우선순위 큐**
