@@ -9,6 +9,7 @@
 - 2293 - 코인 1
 - **9251 - LCS**
 - **12865 - 배낭 문제** (0-1 KnapSack Problem)
+- **1106 - 호텔** (0-1 KnapSack Problem)
 
 #### DFS
 - **16964 DFS 스페셜 저지**
