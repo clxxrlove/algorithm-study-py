@@ -108,7 +108,7 @@ def init():
 
 
 def welcome():
-    print()
+    print(pipe)
     print("Arithmetic Encoding / Decoding tool")
     print("@Author Jiyong Jung / github.com/clxxrlove")
     print(pipe)
